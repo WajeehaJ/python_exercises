@@ -1,7 +1,7 @@
 '''
 Exercise 1.8 if you run a 10km race in 43 minutes and 30 seconds, what is your
 average time per mile. what is your average speed in mile per hour.
-There are 1.61 km in a mile. 
+There are 1.61 km in a mile.
 '''
 
 distance_in_km = 10
