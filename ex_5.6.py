@@ -86,7 +86,7 @@ koch(bob, 200)
 skip(bob, 100)
 koch_snow(bob, 30)
 skip(bob, 100)
-draw_koch_snowflake(bob, 300,3)
+draw_koch_snowflake(bob, 300,4)
 
 wait_for_user()
 
